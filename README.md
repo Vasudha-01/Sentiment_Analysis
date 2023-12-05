@@ -1,7 +1,8 @@
 # Sentiment_Analysis
 This is a sentiment analysis project with python and machine learning
 
-#Required Libraries
+#Required Libraries:
+
 The following Python libraries are required to run the code:
 
 pandas (import pandas as pd): Data manipulation and analysis.
